@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   const playgroundDirectory = [
     {
-      name: "CSS Positioning",
-      url: "/css-positioning",
+      name: "CSS Snap",
+      url: "/css-snap",
     },
   ];
 
